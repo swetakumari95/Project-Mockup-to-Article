@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+-I learnt HTML, the markup language used to describe the structure of web pages.
+-This project was easy as I had to just look carefully at the pdf, and make changes in index.html using Mozilla Developer Network as a guide.
+-There was nothing difficult in this project.
+-I used the technique of coding, comparing and refining the code until it looked exactly like the markup provided.
